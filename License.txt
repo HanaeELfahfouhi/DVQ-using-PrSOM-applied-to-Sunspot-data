@@ -1,9 +1,10 @@
 Copyright (c) 2025 Hanae El Fahfouhi
 
-This code is provided for academic and research purposes only. Permission is granted to use or reproduce this code freely provided that the original GitHub repository is cited as the source, and that the following scientific publication is cited in any resulting work:
+The Permission is granted to use or reproduce this code freely, provided that the original GitHub repository is cited as the source, 
+and that the following scientific publication is cited in any resulting work:
 
 El Fahfouhi, H., En-Naimani, Z., & Haddouch, K. (2025).
-Double Vector Quantization Based on Probabilistic Self-Organizing Maps for Sunspot Time Series Forecasting.
+Double Vector Quantization Based on Probabilistic Self-Organizing Maps for Time Series Forecasting.
 
 GitHub repository: https://github.com/HanaeELfahfouhi/DVQ-using-PrSOM-applied-to-Sunspot-data.git
 
