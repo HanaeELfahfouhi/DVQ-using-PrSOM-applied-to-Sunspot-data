@@ -54,7 +54,7 @@ $$
 \hat{\mathbf{x}}_{n+1} = \mathbf{x}_n + \bar{\mathbf{z}}_l
 $$
 
-- Extract the last prediction compenent: $\hat{x}_{n+1}^{(p)}$ from the predicted vector.
+- Extract the last prediction component: $\hat{x}_{n+1}^{(p)}$ from the predicted vector.
 
 
 ### 4. Calculation of Prediction Errors
