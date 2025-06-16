@@ -1,0 +1,10 @@
+Copyright (c) 2025 Hanae El Fahfouhi
+
+Permission is hereby granted, free of charge, to use or reproduce this code for academic or research purposes, provided that the original 
+GitHub repository is cited as the source, and the following paper is cited in any published work:
+
+El Fahfouhi, H., En-Naimani, Z., & Haddouch, K. (2025). 
+
+GitHub Repository: https://github.com/ton_nom/sunspots-rnn-forecasting
+
+Unauthorized commercial use or modification without permission is prohibited.
